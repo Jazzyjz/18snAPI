@@ -1,0 +1,24 @@
+{
+  "name": "18snapi",
+  "version": "1.0.0",
+  "description": "NoSQL Social Network API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jazzyjz/18snAPI.git"
+  },
+  "author": "Jasmin Flores",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jazzyjz/18snAPI/issues"
+  },
+  "homepage": "https://github.com/Jazzyjz/18snAPI#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.0.1"
+  }
+}
